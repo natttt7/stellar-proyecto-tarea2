@@ -1,0 +1,23 @@
+[dotenv@17.2.3] injecting env (4) from ..\.env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+🚀 Iniciando pago...
+Paso 1: Cargar mi cuenta
+Balance actual: 10000.0000000 XLM
+🎉 ¡PAGO EXITOSO!
+💰 Enviaste: 2 XLM a GB6YDJWDYLZHAQR7Y3PA4E7JMBBOA2YZUEN24RYIVHSMXI5JK6QVFWOI
+🔗 Hash: ab4820e160ae012bd4c22589495c1503e530f8a354c6edb707298103df1943c1
+✅ Transacción completada para GB6YDJWDYLZHAQR7Y3PA4E7JMBBOA2YZUEN24RYIVHSMXI5JK6QVFWOI
+🚀 Iniciando pago...
+Paso 1: Cargar mi cuenta
+Balance actual: 9997.9999900 XLM
+🎉 ¡PAGO EXITOSO!
+💰 Enviaste: 2 XLM a GBZOHAP36MLQYG4IMQITZLDLYQ6SUQZWTKLGMCP6IH7AC4VU5ZZGGVSP
+🔗 Hash: 0dc3a19c0856e09d61814a0f01695ebc4256557fd5bd5cad9d8ba5e49aed30da
+✅ Transacción completada para GBZOHAP36MLQYG4IMQITZLDLYQ6SUQZWTKLGMCP6IH7AC4VU5ZZGGVSP
+🚀 Iniciando pago...
+Paso 1: Cargar mi cuenta
+Balance actual: 9995.9999800 XLM
+🎉 ¡PAGO EXITOSO!
+💰 Enviaste: 2 XLM a GB7INFHBK35YFUXAIIVBGW24JROFL5Q62GZHIHIQQYTPGSL6MAYP6JDY
+🔗 Hash: 6faebef72fcccdddf61f2d47393f15868700f0ac7e6880cc4853884d9c8baca2
+✅ Transacción completada para GB7INFHBK35YFUXAIIVBGW24JROFL5Q62GZHIHIQQYTPGSL6MAYP6JDY
+Todos los pagos procesados.
