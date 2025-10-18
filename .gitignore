@@ -1,2 +1,11 @@
-node_modules/ 
-.env 
+# JavaScript/Node.js
+node_modules/
+.env
+
+# Rust/Soroban
+target/
+*.wasm
+*.contract
+*.key
+secrets/
+.vscode/
